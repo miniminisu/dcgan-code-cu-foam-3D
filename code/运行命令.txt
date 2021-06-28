@@ -1,0 +1,1 @@
+python main.py --dataset 3D --dataroot E:\sjt\python-projects\PorousMediaGan-master-from-ubuntu\code\preprocess\berea_ti --imageSize 64 --batchSize 128 --ngf 64 --ndf 16 --nz 512 --niter 1000 --lr 1e-5 --workers 0 --ngpu 1 --cuda
