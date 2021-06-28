@@ -20,3 +20,5 @@ checkpoints/ketton
 paper/paper
 *.tiff
 *.pyc
+/code/results_imageSize=64_batchSize=32_nz=500_ngf=64_ndf=8/
+/code/results/
